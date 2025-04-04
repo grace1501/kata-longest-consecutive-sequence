@@ -1,0 +1,1 @@
+# kata-longest-consecutive-sequence
